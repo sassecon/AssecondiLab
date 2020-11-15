@@ -1,5 +1,5 @@
 #theme: jekyll-theme-minimal
-theme: minima
+remote_theme: benbalter/retlab
 title: Welcome to Sara Assecondi's webpage
 author :
   name : Sara Assecondi
