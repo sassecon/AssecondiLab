@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minima
 title: Welcome to Sara Assecondi's webpage
 author :
   name : Sara Assecondi
